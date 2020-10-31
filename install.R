@@ -1,4 +1,4 @@
-install.packages('Lahman')
 install.packages('openxlsx')
-install.packages('reticulate')
 install.packages('tidyverse')
+install.packages('broom')
+install.packages('readxl')
