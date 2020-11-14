@@ -1,5 +1,4 @@
 # R-Powered Excel
-###### Reader beware: This repo is very much a work-in-progress 😼
 
 ![cover image](images/satrday-cover.png)
 
